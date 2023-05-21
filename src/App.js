@@ -181,7 +181,7 @@ export default function App(props) {
             </div>
           </div>
           <a
-            href="https://github.com/shekadha/second-react"
+            href="https://github.com/shekadha/react-third"
             target="_blank"
             rel="noreferrer"
           >
